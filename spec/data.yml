@@ -1,0 +1,7 @@
+---
+date: 2015-05-16
+linktitle: Dropwizard HTTPS JerseyClient with runtime JSSE CA Certificates
+title: Dropwizard HTTPS JerseyClient with runtime JSSE CA Certificates
+author: yunspace
+tags: ["dropwizard", "ssl", "jersey"]
+---

@@ -1,0 +1,15 @@
+{
+  "feed": {
+    "layout": false
+  },
+  "dropwizard-https-jerseyclient-with-runtime-jssecacerts": {
+    "title": "Dropwizard HTTPS JerseyClient with runtime JSSE CA Certificates",
+    "date": "2015-05-16",
+    "tags": [
+      "dropwizard",
+      "ssl",
+      "jersey"
+    ],
+    "author": "yunspace"
+  }
+}
