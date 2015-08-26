@@ -8,10 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = Harp2hugoVersion::VERSION
   spec.authors       = ["Yun Zhi Lin"]
   spec.email         = ["yun@yunspace.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{harp to hugo converter}
+  spec.description   = %q{converts your Harp _data.json meta data into Hugo's format}
   spec.homepage      = ""
-  spec.license       = "MIT"
+  spec.license       = "Apache2"
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
@@ -21,4 +21,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"
+  spec.add_runtime_dependency "thor", "~> 0.19"
 end
