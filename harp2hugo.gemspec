@@ -6,7 +6,7 @@ require 'harp2hugo/version'
 Gem::Specification.new do |spec|
   spec.name          = "harp2hugo"
   spec.version       = Harp2hugoVersion::VERSION
-  spec.authors       = ["Yun Zhi Lin"]
+  spec.authors       = ["Yun Zhi Lin", "Evgeny Dudin"]
   spec.email         = ["yun@yunspace.com"]
   spec.summary       = %q{harp to hugo converter}
   spec.description   = %q{converts your Harp _data.json meta data into Hugo's front matter format}
