@@ -1,8 +1,9 @@
 # Harp2hugo
 [![Gem Version](https://badge.fury.io/rb/harp2hugo.svg)](http://badge.fury.io/rb/harp2hugo)
 
-Gem for converting posts from [Harp](https://github.com/sintaxi/harp) [metadata json](http://harpjs.com/docs/development/metadata)
- into [Hugo](https://github.com/spf13/hugo) [Front Matter](https://gohugo.io/content/front-matter/) format. 
+Gem for converting posts from [Harp](https://github.com/sintaxi/harp) [metadata json](http://harpjs.com/docs/development/metadata) into [Hugo](https://github.com/spf13/hugo) [Front Matter](https://gohugo.io/content/front-matter/) format. 
+
+Used in [https://www.yunspace.com/](https://www.yunspace.com/)
 
 ## Usage
 
