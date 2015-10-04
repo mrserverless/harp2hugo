@@ -9,7 +9,7 @@ describe(Harp2Hugo::Converter) do
 
     harp2hugo.convert "output"
 
-    result_file = "output/dropwizard-https-jerseyclient-with-runtime-jssecacerts.md"
+    result_file = "output/Spit-up-on-light-gray-carpet-instead-of-adjacent-linoleum-chew-iPad-power-cord.md"
     expect(File.exists?result_file).to be_truthy
 
     expected_file = "output.md"

@@ -1,12 +1,3 @@
----
-title: Spit up on light gray carpet instead of adjacent linoleum chew iPad power cord
-date: '2015-05-16'
-tags:
-- cat
-- lipsum
-- meow
-author: catlipsum
----
 
 Kitty loves pigs spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce hiss at vacuum cleaner
 
